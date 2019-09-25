@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.company.Main",
+            "projectName": "ComputerPrinterProgram_2d6a1b0a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.company.Main",
+            "projectName": "EncapsulationChallenge_5bf03454"
+        }
+    ]
+}
